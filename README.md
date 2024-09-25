@@ -1,5 +1,5 @@
 ## Hi there 👋
-:hatching_chick:
+:baby_chick:
 <!--
 **zamberlan9/Zamberlan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
